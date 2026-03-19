@@ -15401,6 +15401,64 @@
         ],
         "parent": null
       },
+      "_IyZ__": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "__JY__": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "___Z__": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "____6_": {
+        "fields": {
+          "": 0,
+          "\u0001\u0003\u0001\u0014�\u0001\u0001�": 2013985072,
+          " ���6\u0005": -873691728,
+          "@���6\u0005": -873691800,
+          "Pօ{�": -209423360,
+          "P؀[�": 0,
+          "`���6\u0005": -873691656,
+          "ct_buymenu_mp9": 5,
+          "ct_loadout_famas_lookbehind02": 5,
+          "sh_scar20_crouch_poses_add": 291802208,
+          "walk_new_knife_mirrored_ne_neg45": 296838752,
+          "�\u0005�W�": 1482725360,
+          "��SU�": -630637440,
+          "����6\u0005": -873690792
+        },
+        "metadata": [],
+        "parent": null
+      },
+      "__y_6_": {
+        "fields": {
+          "": 0,
+          "\u0001\u0003\u0001\u0014�\u0001\u0001�": 2013985072,
+          " ���6\u0005": -873691728,
+          "@���6\u0005": -873691800,
+          "Pօ{�": -209423360,
+          "P؀[�": 0,
+          "`\u0003y�6\u0005": -873690720,
+          "`���6\u0005": -873691656,
+          "ct_buymenu_mp9": 5,
+          "ct_loadout_famas_lookbehind02": 5,
+          "sh_scar20_crouch_poses_add": 291802208,
+          "walk_new_knife_mirrored_ne_neg45": 296838752,
+          "�": -873682168,
+          "�\u0001y�6\u0005": -873692016,
+          "�\u0005�W�": 1482725360,
+          "��SU�": -630637440,
+          "����6\u0005": -873690792
+        },
+        "metadata": [],
+        "parent": null
+      },
       "audioparams_t": {
         "fields": {
           "localBits": 108,
@@ -15704,6 +15762,11 @@
         ],
         "parent": null
       },
+      "m_OwnerOnlyPredNetFloatVariables": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
       "shard_model_desc_t": {
         "fields": {
           "m_SurfacePropStringToken": 120,
@@ -15830,6 +15893,11 @@
             "type_name": "WorldGroupId_t"
           }
         ],
+        "parent": null
+      },
+      "xHyZ__": {
+        "fields": {},
+        "metadata": [],
         "parent": null
       }
     },
