@@ -1,11 +1,11 @@
 {
   "client.dll": {
     "attack": 33974112,
-    "attack2": 33974256,
-    "back": 33974832,
-    "duck": 33975552,
-    "forward": 33974688,
-    "jump": 33975408,
+    "attack2": 3374256,
+    "back": 3397832,
+    "duck": 3395552,
+    "forward": 3374688,
+    "jump": 3395408,
     "left": 33974976,
     "lookatweapon": 36823632,
     "reload": 33973968,
