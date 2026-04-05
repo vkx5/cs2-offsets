@@ -15038,6 +15038,11 @@
         ],
         "parent": null
       },
+      "H40___": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
       "IClientAlphaProperty": {
         "fields": {},
         "metadata": [],
@@ -15399,6 +15404,11 @@
             "type_name": "WeaponPurchaseCount_t"
           }
         ],
+        "parent": null
+      },
+      "__0___": {
+        "fields": {},
+        "metadata": [],
         "parent": null
       },
       "audioparams_t": {
@@ -15830,6 +15840,16 @@
             "type_name": "WorldGroupId_t"
           }
         ],
+        "parent": null
+      },
+      "tR": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
+      "x_____": {
+        "fields": {},
+        "metadata": [],
         "parent": null
       }
     },
