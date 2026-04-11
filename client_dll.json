@@ -15401,6 +15401,11 @@
         ],
         "parent": null
       },
+      "__W_v_": {
+        "fields": {},
+        "metadata": [],
+        "parent": null
+      },
       "audioparams_t": {
         "fields": {
           "localBits": 108,
